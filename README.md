@@ -1,6 +1,6 @@
 # Vein-to-blade ratio as an allometric indicator of climate-induced changes in grapevine leaf size and shape
 
-This repository contains the dataand code used to produce the figures and tables for the manuscript *Vein-to-blade ratio as an allometric indicator of climate-induced changes in grapevine leaf size and shape*.
+This repository contains the data and code used to produce the figures and tables for the manuscript *Vein-to-blade ratio as an allometric indicator of climate-induced changes in grapevine leaf size and shape*.
 
 ### Figure legends
 
